@@ -1,0 +1,8 @@
+.newjornal{
+        --primario : rgb(163, 154, 154);
+        --secundário :rgb(246, 243, 243);
+        --link :rgb(255, 255, 255);
+        --linkhover:red;
+        --text : rgb(65, 7, 7) !important;
+        --textsite: rgb(180, 58, 68);
+        }
